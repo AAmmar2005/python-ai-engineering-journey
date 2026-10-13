@@ -1,4 +1,3 @@
-```markdown
 # 🐾 Animal Image Classification System
 
 ## 📌 Overview
