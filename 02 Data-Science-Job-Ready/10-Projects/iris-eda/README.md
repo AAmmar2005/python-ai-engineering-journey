@@ -77,8 +77,11 @@ iris_df = sns.load_dataset('iris')
 | Plot | What it shows |
 |---|---|
 | Scatter plot: sepal length vs sepal width (colored by species) | Relationship between the two sepal measurements and how species are spread |
+![Sepal scatter plot](images/output.png)
 | Histogram with KDE: petal length | Distribution and shape of petal length |
+![Petal length histogram](images/histogram.png )
 | Horizontal box plots: all numerical features | Spread of each feature and possible outliers |
+![Feature box plots](images/ box plot.png )
 
 **Key findings**
 
